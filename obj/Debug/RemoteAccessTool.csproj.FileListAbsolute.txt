@@ -1,0 +1,14 @@
+C:\Users\smoky\Source\Repos\RemoteAccessTool\bin\Debug\RemoteAccessTool.exe.config
+C:\Users\smoky\Source\Repos\RemoteAccessTool\bin\Debug\RemoteAccessTool.exe
+C:\Users\smoky\Source\Repos\RemoteAccessTool\bin\Debug\RemoteAccessTool.pdb
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.csproj.AssemblyReference.cache
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.csproj.SuggestedBindingRedirects.cache
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.Properties.Resources.resources
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.csproj.GenerateResource.cache
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.csproj.CoreCompileInputs.cache
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.exe
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.pdb
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.RAT.resources
+C:\Users\smoky\Source\Repos\RemoteAccessTool\bin\Debug\System.CodeDom.dll
+C:\Users\smoky\Source\Repos\RemoteAccessTool\bin\Debug\System.CodeDom.xml
+C:\Users\smoky\Source\Repos\RemoteAccessTool\obj\Debug\RemoteAccessTool.csproj.CopyComplete
