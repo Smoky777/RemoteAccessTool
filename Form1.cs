@@ -1,7 +1,6 @@
 ﻿using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
-using System.Globalization;
 using System.Management;
 using System.Net;
 using System.Net.Sockets;
@@ -9,12 +8,7 @@ using System.Text;
 using System.Threading;
 using System.Windows.Forms;
 using MaxMind.GeoIP2;
-using MaxMind.GeoIP2.Exceptions;
-using RemoteAccessTool.Properties;
-using MaxMind.GeoIP2.Model;
 using System.IO;
-using System.Diagnostics;
-using MaxMind.Db;
 
 
 namespace RemoteAccessTool
