@@ -251,12 +251,12 @@ namespace RemoteAccessTool
         {
             if (ListConnection.InvokeRequired)
             {
-                // Utiliser Invoke pour exécuter le code sur le thread approprié
+                //Invoke pour exécuter le code sur le thread approprié
                 ListConnection.Invoke(new Action<ListViewItem>(AddItemToListConnection), item);
             }
             else
             {
-                // Ajouter l'élément à ListConnection.Items
+                //Ajouter l'élément à ListConnection.Items
                 ListConnection.Items.Add(item);
             }
         }
